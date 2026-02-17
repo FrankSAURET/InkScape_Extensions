@@ -11,7 +11,8 @@
         "version": "2026.1",
         "download": ["OptimLaser/"],
         "default_install_dir": "FrankSAURET",
-        "compatibility": ["Inkscape >= 1.2.0"]
+        "compatibility": ["Inkscape >= 1.2.0"],
+        "repos": "https://github.com/FrankSAURET/OptimLaser"
     },
     {
         "name": "Tableau",
@@ -21,7 +22,8 @@
         "version": "2020.2",
         "download": ["Tableau/"],
         "default_install_dir": "FrankSAURET",
-        "compatibility": ["Inkscape >= 1.2.0"]
+        "compatibility": ["Inkscape >= 1.2.0"],
+        "repos": "https://github.com/FrankSAURET/Tableau"
     },
     {
         "name": "removeDuplicateLines",
@@ -31,7 +33,8 @@
         "version": "2026.1",
         "download": ["removeDuplicateLines/"],
         "default_install_dir": "FrankSAURET",
-        "compatibility": ["Inkscape >= 1.2.0"]
+        "compatibility": ["Inkscape >= 1.2.0"],
+        "repos": "https://github.com/FrankSAURET/removeDuplicateLines"
     },
     {
         "name": "Jointure_rapide",
@@ -41,7 +44,8 @@
         "version": "2024.3",
         "download": ["Jointure_rapide/"],
         "default_install_dir": "FrankSAURET",
-        "compatibility": ["Inkscape >= 1.2.0"]
+        "compatibility": ["Inkscape >= 1.2.0"],
+        "repos": "https://github.com/FrankSAURET/Jointure_rapide"
     },
     {
       "name": "Engrenages",
@@ -51,7 +55,8 @@
       "version": "2025.2",
       "download": ["Engrenages/"],
       "default_install_dir": "FrankSAURET",
-      "compatibility": ["Inkscape >= 1.2.0"]
+      "compatibility": ["Inkscape >= 1.2.0"],
+      "repos": "https://github.com/FrankSAURET/Engrenages"
     },
     {
       "name": "boite_brique",
@@ -61,7 +66,8 @@
       "version": "2024.2",
       "download": ["boite_brique/"],
       "default_install_dir": "FrankSAURET",
-      "compatibility": ["Inkscape >= 1.2.0"]
+      "compatibility": ["Inkscape >= 1.2.0"],
+      "repos": "https://github.com/FrankSAURET/boite_brique"
     }    
 
   ]
