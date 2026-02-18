@@ -13,7 +13,7 @@
         "download": ["OptimLaser/"],
         "default_install_dir": "FrankSAURET",
         "compatibility": ["Inkscape >= 1.2.0"],
-        "run_it": "Extensions > Découpe Laser > Optimisation pour découpe laser"
+        "start_here": "Extensions > Découpe Laser > Optimisation pour découpe laser"
     },
     {
         "name": "Tableau",
@@ -25,7 +25,7 @@
         "download": ["Tableau/"],
         "default_install_dir": "FrankSAURET",
         "compatibility": ["Inkscape >= 1.2.0"],
-        "run_it": "Extensions > Découpe Laser > Tableau"
+        "start_here": "Extensions > Découpe Laser > Tableau"
     },
     {
         "name": "removeDuplicateLines",
@@ -37,7 +37,7 @@
         "download": ["removeDuplicateLines/"],
         "default_install_dir": "FrankSAURET",
         "compatibility": ["Inkscape >= 1.2.0"],
-        "run_it": "Extensions > Découpe Laser > Supprimer les lignes en double"
+        "start_here": "Extensions > Découpe Laser > Supprimer les lignes en double"
     },
     {
         "name": "Jointure_rapide",
@@ -49,7 +49,7 @@
         "download": ["Jointure_rapide/"],
         "default_install_dir": "FrankSAURET",
         "compatibility": ["Inkscape >= 1.2.0"],
-        "run_it": "Extensions > Découpe Laser > Assemblage rapide"
+        "start_here": "Extensions > Découpe Laser > Assemblage rapide"
     },
     {
       "name": "Engrenages",
@@ -61,7 +61,7 @@
       "download": ["Engrenages/"],
       "default_install_dir": "FrankSAURET",
       "compatibility": ["Inkscape >= 1.2.0"],
-      "run_it": "Extensions > Formes > Engrenages"
+      "start_here": "Extensions > Formes > Engrenages"
     },
     {
       "name": "boite_brique",
@@ -73,7 +73,7 @@
       "download": ["boite_brique/"],
       "default_install_dir": "FrankSAURET",
       "compatibility": ["Inkscape >= 1.2.0"],
-      "run_it": "Extensions > Découpe Laser > « Boîte brique »"
+      "start_here": "Extensions > Découpe Laser > « Boîte brique »"
     }    
 
   ]
