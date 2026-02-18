@@ -12,7 +12,8 @@
         "repos": "https://github.com/FrankSAURET/OptimLaser",
         "download": ["OptimLaser/"],
         "default_install_dir": "FrankSAURET",
-        "compatibility": ["Inkscape >= 1.2.0"]
+        "compatibility": ["Inkscape >= 1.2.0"],
+        "run_it": "Extensions > Découpe Laser > Optimisation pour découpe laser"
     },
     {
         "name": "Tableau",
@@ -23,7 +24,8 @@
         "repos": "https://github.com/FrankSAURET/Tableau",
         "download": ["Tableau/"],
         "default_install_dir": "FrankSAURET",
-        "compatibility": ["Inkscape >= 1.2.0"]
+        "compatibility": ["Inkscape >= 1.2.0"],
+        "run_it": "Extensions > Découpe Laser > Tableau"
     },
     {
         "name": "removeDuplicateLines",
@@ -34,7 +36,8 @@
         "repos": "https://github.com/FrankSAURET/removeDuplicateLines",
         "download": ["removeDuplicateLines/"],
         "default_install_dir": "FrankSAURET",
-        "compatibility": ["Inkscape >= 1.2.0"]
+        "compatibility": ["Inkscape >= 1.2.0"],
+        "run_it": "Extensions > Découpe Laser > Supprimer les lignes en double"
     },
     {
         "name": "Jointure_rapide",
@@ -45,7 +48,8 @@
         "repos": "https://github.com/FrankSAURET/Jointure_rapide",
         "download": ["Jointure_rapide/"],
         "default_install_dir": "FrankSAURET",
-        "compatibility": ["Inkscape >= 1.2.0"]
+        "compatibility": ["Inkscape >= 1.2.0"],
+        "run_it": "Extensions > Découpe Laser > Assemblage rapide"
     },
     {
       "name": "Engrenages",
@@ -56,7 +60,8 @@
       "repos": "https://github.com/FrankSAURET/Engrenages",
       "download": ["Engrenages/"],
       "default_install_dir": "FrankSAURET",
-      "compatibility": ["Inkscape >= 1.2.0"]
+      "compatibility": ["Inkscape >= 1.2.0"],
+      "run_it": "Extensions > Formes > Engrenages"
     },
     {
       "name": "boite_brique",
@@ -67,7 +72,8 @@
       "repos": "https://github.com/FrankSAURET/boite_brique",
       "download": ["boite_brique/"],
       "default_install_dir": "FrankSAURET",
-      "compatibility": ["Inkscape >= 1.2.0"]
+      "compatibility": ["Inkscape >= 1.2.0"],
+      "run_it": "Extensions > Découpe Laser > « Boîte brique »"
     }    
 
   ]
