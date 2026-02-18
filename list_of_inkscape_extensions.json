@@ -6,7 +6,7 @@
   "extensions": [
     {   "name": "OptimLaser",
         "short_description": "Optimise les dessins SVG pour la découpe laser dans Inkscape, en supprimant les doublons et en améliorant les tracés.",
-        "subject": "découpe laser",
+        "subject": ["découpe laser"],
         "author": "Frank SAURET",
         "version": "2026.1",
         "repos": "https://github.com/FrankSAURET/OptimLaser",
@@ -17,7 +17,7 @@
     {
         "name": "Tableau",
         "short_description": "Dessine un tableau avec des coins arrondis.",
-        "subject": "découpe laser",
+        "subject": ["découpe laser","Tableau"],
         "author": "Frank SAURET",
         "version": "2020.2",
         "repos": "https://github.com/FrankSAURET/Tableau",
@@ -28,7 +28,7 @@
     {
         "name": "removeDuplicateLines",
         "short_description": "Supprime les segments de ligne dupliqués avec une option de tolérance pour détecter les segments comme identiques.",
-        "subject": "découpe laser",
+        "subject": ["découpe laser","Chemin"],
         "author": "Ellen Wasbø",
         "version": "2026.1",
         "repos": "https://github.com/FrankSAURET/removeDuplicateLines",
@@ -39,7 +39,7 @@
     {
         "name": "Jointure_rapide",
         "short_description": "Extension pour créer rapidement des jointures pour la découpe laser.",
-        "subject": "découpe laser",
+        "subject": ["découpe laser","Assemblage"],
         "author": "Jarrett Rainimo",
         "version": "2024.3",
         "repos": "https://github.com/FrankSAURET/Jointure_rapide",
@@ -50,7 +50,7 @@
     {
       "name": "Engrenages",
       "short_description": "Génère des engrenages paramétriques pour Inkscape.",
-      "subject": "découpe laser",
+      "subject": ["découpe laser","Formes","Création d'objets"],
       "author": "Frank SAURET",
       "version": "2025.2",
       "repos": "https://github.com/FrankSAURET/Engrenages",
@@ -61,7 +61,7 @@
     {
       "name": "boite_brique",
       "short_description": "Génére des boîtes parallélépipédiques.",
-      "subject": "découpe laser",
+      "subject": ["découpe laser","Création d'objets"],
       "author": "Frank SAURET",
       "version": "2024.2",
       "repos": "https://github.com/FrankSAURET/boite_brique",
